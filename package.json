@@ -11,6 +11,6 @@
   "dependencies": {
     "html": "^1.0.0",
     "node-html-parser": "^3.3.5",
-    "xlsx": "^0.17.0"
+    "xlsx": "^0.17.5"
   }
 }
